@@ -14,5 +14,5 @@ def cart(fruits):
     for fruit in fruits:
             print(fruit)
 
-fruits = [ 'apple', 'kiwi', 'grape', 'peach']
+fruits = ['apple', 'kiwi', 'grape', 'peach']
 cart(fruits)

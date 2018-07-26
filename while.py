@@ -66,3 +66,6 @@ while active:
         print("영화 입장권은 15달러입니다.")
     else:
         active = False
+
+sandwich_orders = ['a', 'b','c', 'd', 'e']
+finished_sandwiches = []
